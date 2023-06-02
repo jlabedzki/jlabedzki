@@ -4,16 +4,16 @@
 
 ## Welcome <img src='./assets/wave.gif' width='30px'>
 
-👋 Hi there, I'm Johnny, a Canadian software developer with a somewhat unique background in medicine and a passion for coding.
+👋 Hi there, I'm Johnny, a Canadian software developer with a unique background in medicine and a passion for coding.
 
-## About Me
+### About Me
 
 - 🔭 I'm currently working on exciting projects that leverage my skills in JavaScript/TypeScript, Python, and SQL.
 - 🌱 I'm continuously learning and exploring new technologies to enhance my development expertise.
 - 🎓 I hold a medical degree, but my true calling lies in software development, where I can combine my analytical mindset and creative problem-solving skills.
 - ⚡ Fun fact: When I'm not coding, you can find me spending quality time with my family, enjoying outdoor activities like biking and camping, and diving deep into books on Buddhist and Stoic philosophy.
 
-## Tech Stack
+### Tech Stack
 
 Here are some of the key technologies I work with:
 
@@ -23,11 +23,11 @@ Here are some of the key technologies I work with:
 - 🗄️ Databases: PostgreSQL
 - 🛠️ Tools: Git, Docker, VS Code
 
-## Get in Touch
+### Get in Touch
 
 I'm always open to new opportunities, collaboration, or simply engaging in tech discussions. Feel free to reach out to me through the following channels:
 
-- 📧 Email: [johnny@example.com](mailto:johnlabedzki@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/johnnydeveloper](https://www.linkedin.com/in/johnny-labedzki-5bb4b220a/)
+- 📧 Email: [johnlabedzki@gmail.com](mailto:johnlabedzki@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/johnny-labedzki](https://www.linkedin.com/in/johnny-labedzki-5bb4b220a/)
 
 Let's connect and create something awesome together! 🚀
