@@ -2,19 +2,47 @@
 [![name](https://img.shields.io/badge/-RESUME-important?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAA3lBMVEUAAAA%2FPz8%2FPz8%2FPz8%2FPz8%2FPz9%2Ff38%2FPz8%2FPz8%2FPz9%2Ff39%2Ff39%2Ff3%2B%2Fv79%2Ff39%2Ff39%2Ff39%2Ff39%2Ff39%2Ff39%2Ff39%2Ff39%2Ff3%2B%2Fv79%2Ff3%2F%2F%2F%2F9%2Ff3%2B%2Fv79%2Ff3%2B%2Fv79%2Ff3%2B%2Fv7%2B%2Fv7%2B%2Fv7%2B%2Fv79%2Ff3%2B%2Fv7%2B%2Fv7%2B%2Fv79%2Ff3%2B%2Fv7%2B%2Fv79%2Ff3%2B%2Fv7%2B%2Fv7%2B%2Fv7%2B%2Fv7%2B%2Fv7%2B%2Fv7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BzD9QhAAAASXRSTlMABAgMEBQUGBsnKCwvMDM0Nzg%2FQEhMUFNUVFdbXFxfX2BjZ2hrb3N3d3t%2Ff4OHi4%2BTl5%2Bjp6uvs7e7v8PHy8%2FT19%2Fj5%2Bvv8%2Ff7cbFP%2FgAAAXpJREFUeNrt1APC7EgAReET%2FbZt20jSVu7%2BFzTz0Ei76lnfAk50U1DnXRZkLHfkQLvxgqyEHm3cvCy90OZY1hZIi2XtnrSqrIWk6dcLVMKwok%2FyWX2WzZsH8ssOOCsFSe8O1%2FroBt5MA1F9JX4sXUBQk5SMwqlhoBhQtyTFwJOkZyA0DOwB5%2BXSCZxImoRFSUswIbNA1YUDfRC9JJLugLwKwI1hIAIKqe%2FhwonOwC0bBh7AV8oOBNVR2JBh4AlcpcTAOhCaBjKdP9ckABPmSwxgMZFq54clqf4a4cY8cAnMPz7MwlrzNeKWzQO1Keo2m6%2BRDZkHVKoX5kqt1xjaBJTczrjuzF2iun32f78D5V%2FgKwK1KBwoTgYHkkmG2B4cKDDMyOCAdhnMuZb%2B7eDflDNDAsk0Q%2Bx97ymvMphz9Vfs4N%2BU47BdSe2sp%2BxGamc95Qu1s53yWN4uoHKh3W%2FzGauy9k7au6zdkLYlW8kEX3cLV7TzXmXl2uGz%2FwGfny3pcYcgmQAAAABJRU5ErkJggg%3D%3D)](https://resume.creddle.io/resume/cjk16b3q2q0)
 [![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnny-labedzki-5bb4b220a/)
 
-### Hi there 👋
+# Welcome <img src='./assets/wave.gif' width='30px'>
 
-<!--
-**jlabedzki/jlabedzki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there, I'm Johnny!
 
-Here are some ideas to get you started:
+I'm a Canadian software developer with a unique background in medicine and a passion for coding. I'm fascinated by the intersection of healthcare and technology, and I strive to create innovative solutions that improve people's lives. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🔭 I'm currently working on exciting projects that leverage my skills in JavaScript/TypeScript, Python, and SQL.
+- 🌱 I'm continuously learning and exploring new technologies to enhance my development expertise.
+- 🎓 I hold a medical degree, but my true calling lies in software development, where I can combine my analytical mindset and creative problem-solving skills.
+- 💼 I have experience working in diverse teams and collaborating on projects that require both technical expertise and domain knowledge.
+- ⚡ Fun fact: When I'm not coding, you can find me spending quality time with my family, enjoying outdoor activities like biking and camping, and diving deep into books on Buddhist and Stoic philosophy.
+
+## Tech Stack
+
+Here are some of the key technologies I work with:
+
+- 💻 Programming Languages: JavaScript/TypeScript, Python, SQL
+- 🌐 Front-end: React, HTML, CSS
+- 🚀 Back-end: Flask
+- 🗄️ Databases: PostgreSQL, MongoDB
+- 🛠️ Tools: Git, Docker, VS Code, Jupyter Notebook
+
+## Projects
+
+Take a look at some of my noteworthy projects:
+
+- 📁 [Project 1](link): A web application built with React and Flask that simplifies task management and boosts productivity.
+- 📁 [Project 2](link): A data analysis tool developed in Python to uncover insights from large datasets and drive informed decision-making.
+- 📁 [Project 3](link): An interactive dashboard using JavaScript/TypeScript and PostgreSQL, providing real-time visualizations for monitoring key metrics.
+
+For a complete list of my projects, please visit my [portfolio website](link).
+
+## Get in Touch
+
+I'm always open to new opportunities, collaboration, or simply engaging in tech discussions. Feel free to reach out to me through the following channels:
+
+- 📧 Email: [johnny@example.com](mailto:johnny@example.com)
+- 💼 LinkedIn: [linkedin.com/in/johnnydeveloper](https://www.linkedin.com/in/johnnydeveloper)
+- 🌐 Website: [johnnydeveloper.com](https://www.johnnydeveloper.com)
+- 🐦 Twitter: [@johnnydeveloper](https://twitter.com/johnnydeveloper)
+
+Let's connect and create something awesome together! 🚀
