@@ -6,11 +6,9 @@
 
 👋 Hi there, I'm Johnny, a Canadian software developer with a unique background in medicine and a passion for coding.
 
-### About Me
+🎓 I hold a medical degree, but my true calling lies in software development, where I can combine my analytical mindset and creative problem-solving skills.
 
-- 🎓 I hold a medical degree, but my true calling lies in software development, where I can combine my analytical mindset and creative problem-solving skills.
-- 🔭 I'm currently working on exciting projects that leverage my skills in JavaScript/TypeScript, Python, and SQL.
-- 🌱 I'm continuously learning and exploring new technologies to enhance my development expertise.
+🌱 I love continuously learning and exploring new technologies to enhance my development expertise.
 
 Outside of my professional life, you'll often find me:
 
@@ -18,7 +16,7 @@ Outside of my professional life, you'll often find me:
 - 🚴‍♀️ Biking and camping in the great outdoors
 - 📚 Reading and practicing Buddhist and Stoic philosophy
 
-### Tech Stack
+## Tech Stack
 
 Here are some of the key technologies I work with:
 
@@ -28,7 +26,7 @@ Here are some of the key technologies I work with:
 - 🗄️ Databases: PostgreSQL
 - 🛠️ Tools: Git, Docker, VS Code
 
-### Get in Touch
+## Get in Touch
 
 I'm open new opportunities, collaboration, or simply engaging in tech discussions. However, I consider new opportunities carefully, ensuring they align with my goals and values. Feel free to reach out to me through the following channels:
 
