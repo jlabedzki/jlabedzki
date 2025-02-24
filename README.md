@@ -14,7 +14,6 @@ Outside of my professional life, you'll often find me:
 
 - 🏡 Spending quality time with my family
 - 🚴‍♀️ Biking and camping in the great outdoors
-- 📚 Reading and practicing Buddhist and Stoic philosophy
 
 ## Tech Stack
 
