@@ -4,11 +4,7 @@
 
 ## Welcome <img src='./assets/wave.gif' width='30px'>
 
-Hi there, I'm Johnny, a Canadian software developer with a unique background in medicine and a passion for coding.
-
-I hold a medical degree, but my true calling lies in software development, where I can combine my analytical mindset and creative problem-solving skills.
-
-I love continuously learning and exploring new technologies to enhance my development expertise.
+Hi there, I'm Johnny, a Canadian software developer with a background in medicine and a strong passion for building scalable, efficient software solutions. My expertise lies in full-stack development.
 
 Outside of my professional life, you'll often find me:
 
@@ -17,13 +13,13 @@ Outside of my professional life, you'll often find me:
 
 ## Tech Stack
 
-Here are some of the key technologies I work with:
+The main technologies I work with:
 
 - 💻 Programming Languages: JavaScript/TypeScript, Python, SQL
-- 🌐 Front-end: React, HTML, CSS
-- 🚀 Back-end: Flask
+- 🌐 Front-end: React, HTML, CSS/SCSS
+- 🚀 Back-end: Flask, Node.js
 - 🗄️ Databases: PostgreSQL
-- 🛠️ Tools: Git, Docker, VS Code
+- 🛠️ Tools: Git, Docker, AWS
 
 ## Get in Touch
 
