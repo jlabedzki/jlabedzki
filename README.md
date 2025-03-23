@@ -27,9 +27,9 @@ Here are some of the key technologies I work with:
 
 ## Get in Touch
 
-I'm open new opportunities, collaboration, or simply engaging in tech discussions. However, I consider new opportunities carefully, ensuring they align with my goals and values. Feel free to reach out to me through the following channels:
+I'm open new opportunities, collaboration, or simply engaging in tech discussions. Feel free to reach out to me through the following channels:
 
 - 📧 Email: [johnlabedzki@gmail.com](mailto:johnlabedzki@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/johnny-labedzki](https://www.linkedin.com/in/johnny-labedzki-5bb4b220a/)
 
-Let's connect! 🚀
+Let's connect!
