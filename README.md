@@ -4,11 +4,11 @@
 
 ## Welcome <img src='./assets/wave.gif' width='30px'>
 
-👋 Hi there, I'm Johnny, a Canadian software developer with a unique background in medicine and a passion for coding.
+Hi there, I'm Johnny, a Canadian software developer with a unique background in medicine and a passion for coding.
 
-🎓 I hold a medical degree, but my true calling lies in software development, where I can combine my analytical mindset and creative problem-solving skills.
+I hold a medical degree, but my true calling lies in software development, where I can combine my analytical mindset and creative problem-solving skills.
 
-🌱 I love continuously learning and exploring new technologies to enhance my development expertise.
+I love continuously learning and exploring new technologies to enhance my development expertise.
 
 Outside of my professional life, you'll often find me:
 
